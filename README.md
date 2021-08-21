@@ -34,14 +34,7 @@
 
 <!--END_SECTION:activity-->
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="vthanushkumr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vthanushkumr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://vthanushkumr.wixsite.com/portfolio
 [instagram]: https://www.instagram.com/____xo.xo____/
