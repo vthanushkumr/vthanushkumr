@@ -1,4 +1,4 @@
-### Hi there, I'm Thanush Kumar aka [codeSTACKr][website] 👋
+### Hi there, I'm Thanush Kumar My [Portfolio][website] 👋
 
 [![Website](https://img.shields.io/website?label=About_Me&style=for-the-badge&url=https%3A%2F%2Fhttps://vthanushkumr.wixsite.com/portfolio)](https://vthanushkumr.wixsite.com/portfolio)
 
