@@ -35,11 +35,6 @@
 
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  
-</details>
 
 [website]: https://vthanushkumr.wixsite.com/portfolio
 [instagram]: https://www.instagram.com/____xo.xo____/
