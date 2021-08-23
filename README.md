@@ -5,7 +5,7 @@
 ## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer (back-end)
+- 👯 I’m looking to collaborate with other developer (back-end
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and play guitar / drums
 
